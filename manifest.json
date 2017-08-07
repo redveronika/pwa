@@ -9,5 +9,6 @@
     "start_url": "/pwa/index.html",
     "display": "standalone",
     "background_color": "#fff",
-    "theme_color": "#ffca00"
+    "theme_color": "#ffca00",
+    "gcm_sender_id": "930862851797"
 }
